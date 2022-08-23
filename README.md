@@ -1,3 +1,3 @@
 # Leetcode
 
-Log of my LC progress. :)
+Log of my LC progress :)
